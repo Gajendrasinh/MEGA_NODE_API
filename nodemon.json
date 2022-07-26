@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "lms",
+    "MONGO_PASSWORD": "lms",
+    "MONGO_DB": "lms"
+  }
+}
